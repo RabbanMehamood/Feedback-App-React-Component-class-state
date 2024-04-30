@@ -41,7 +41,7 @@ class Feedback extends Component {
 
     return (
       <div className="thank-you-container">
-        <img src={loveEmojiUrl} alt="love-emoji" className="love-emoji" />
+        <img src={loveEmojiUrl} alt="love emoji" className="love-emoji" />
         <h1>Thank You!</h1>
         <p>
           We will use your feedback to improve our customer support performance.
